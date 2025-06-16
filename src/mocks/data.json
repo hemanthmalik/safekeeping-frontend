@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "platform": "Cover page",
+    "username": "Cover page",
+    "status": "In Process",
+    "target": "18",
+    "limit": "5",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 2,
+    "platform": "Table of contents",
+    "username": "Table of contents",
+    "status": "Done",
+    "target": "29",
+    "limit": "24",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 3,
+    "platform": "Executive summary",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "10",
+    "limit": "13",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 4,
+    "platform": "Technical approach",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "27",
+    "limit": "23",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 5,
+    "platform": "Design",
+    "username": "Narrative",
+    "status": "In Process",
+    "target": "2",
+    "limit": "16",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 6,
+    "platform": "Capabilities",
+    "username": "Narrative",
+    "status": "In Process",
+    "target": "20",
+    "limit": "8",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 7,
+    "platform": "Integration with existing systems",
+    "username": "Narrative",
+    "status": "In Process",
+    "target": "19",
+    "limit": "21",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 8,
+    "platform": "Innovation and Advantages",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "25",
+    "limit": "26",
+    "password": "Assign password"
+  },
+  {
+    "id": 9,
+    "platform": "Overview of EMR's Innovative Solutions",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "7",
+    "limit": "23",
+    "password": "Assign password"
+  },
+  {
+    "id": 10,
+    "platform": "Advanced Algorithms and Machine Learning",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "30",
+    "limit": "28",
+    "password": "Assign password"
+  },
+  {
+    "id": 11,
+    "platform": "Adaptive Communication Protocols",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "9",
+    "limit": "31",
+    "password": "Assign password"
+  },
+  {
+    "id": 12,
+    "platform": "Advantages Over Current Technologies",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "12",
+    "limit": "0",
+    "password": "Assign password"
+  },
+  {
+    "id": 13,
+    "platform": "Past Performance",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "22",
+    "limit": "33",
+    "password": "Assign password"
+  },
+  {
+    "id": 14,
+    "platform": "Customer Feedback and Satisfaction Levels",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "15",
+    "limit": "34",
+    "password": "Assign password"
+  },
+  {
+    "id": 15,
+    "platform": "Implementation Challenges and Solutions",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "3",
+    "limit": "35",
+    "password": "Assign password"
+  },
+  {
+    "id": 16,
+    "platform": "Security Measures and Data Protection Policies",
+    "username": "Narrative",
+    "status": "In Process",
+    "target": "6",
+    "limit": "36",
+    "password": "Assign password"
+  },
+  {
+    "id": 17,
+    "platform": "Scalability and Future Proofing",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "4",
+    "limit": "37",
+    "password": "Assign password"
+  },
+  {
+    "id": 18,
+    "platform": "Cost-Benefit Analysis",
+    "username": "Plain language",
+    "status": "Done",
+    "target": "14",
+    "limit": "38",
+    "password": "Assign password"
+  },
+  {
+    "id": 19,
+    "platform": "User Training and Onboarding Experience",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "17",
+    "limit": "39",
+    "password": "Assign password"
+  },
+  {
+    "id": 20,
+    "platform": "Future Development Roadmap",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "11",
+    "limit": "40",
+    "password": "Assign password"
+  },
+  {
+    "id": 21,
+    "platform": "System Architecture Overview",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "24",
+    "limit": "18",
+    "password": "Maya Johnson"
+  },
+  {
+    "id": 22,
+    "platform": "Risk Management Plan",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "15",
+    "limit": "22",
+    "password": "Carlos Rodriguez"
+  },
+  {
+    "id": 23,
+    "platform": "Compliance Documentation",
+    "username": "Legal",
+    "status": "In Process",
+    "target": "31",
+    "limit": "27",
+    "password": "Sarah Chen"
+  },
+  {
+    "id": 24,
+    "platform": "API Documentation",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "8",
+    "limit": "12",
+    "password": "Raj Patel"
+  },
+  {
+    "id": 25,
+    "platform": "User Interface Mockups",
+    "username": "Visual",
+    "status": "In Process",
+    "target": "19",
+    "limit": "25",
+    "password": "Leila Ahmadi"
+  },
+  {
+    "id": 26,
+    "platform": "Database Schema",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "22",
+    "limit": "20",
+    "password": "Thomas Wilson"
+  },
+  {
+    "id": 27,
+    "platform": "Testing Methodology",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "17",
+    "limit": "14",
+    "password": "Assign password"
+  },
+  {
+    "id": 28,
+    "platform": "Deployment Strategy",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "26",
+    "limit": "30",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 29,
+    "platform": "Budget Breakdown",
+    "username": "Financial",
+    "status": "In Process",
+    "target": "13",
+    "limit": "16",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 30,
+    "platform": "Market Analysis",
+    "username": "Research",
+    "status": "Done",
+    "target": "29",
+    "limit": "32",
+    "password": "Sophia Martinez"
+  },
+  {
+    "id": 31,
+    "platform": "Competitor Comparison",
+    "username": "Research",
+    "status": "In Process",
+    "target": "21",
+    "limit": "19",
+    "password": "Assign password"
+  },
+  {
+    "id": 32,
+    "platform": "Maintenance Plan",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "16",
+    "limit": "23",
+    "password": "Alex Thompson"
+  },
+  {
+    "id": 33,
+    "platform": "User Personas",
+    "username": "Research",
+    "status": "In Process",
+    "target": "27",
+    "limit": "24",
+    "password": "Nina Patel"
+  },
+  {
+    "id": 34,
+    "platform": "Accessibility Compliance",
+    "username": "Legal",
+    "status": "Done",
+    "target": "18",
+    "limit": "21",
+    "password": "Assign password"
+  },
+  {
+    "id": 35,
+    "platform": "Performance Metrics",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "23",
+    "limit": "26",
+    "password": "David Kim"
+  },
+  {
+    "id": 36,
+    "platform": "Disaster Recovery Plan",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "14",
+    "limit": "17",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 37,
+    "platform": "Third-party Integrations",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "25",
+    "limit": "28",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 38,
+    "platform": "User Feedback Summary",
+    "username": "Research",
+    "status": "Done",
+    "target": "20",
+    "limit": "15",
+    "password": "Assign password"
+  },
+  {
+    "id": 39,
+    "platform": "Localization Strategy",
+    "username": "Narrative",
+    "status": "In Process",
+    "target": "12",
+    "limit": "19",
+    "password": "Maria Garcia"
+  },
+  {
+    "id": 40,
+    "platform": "Mobile Compatibility",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "28",
+    "limit": "31",
+    "password": "James Wilson"
+  },
+  {
+    "id": 41,
+    "platform": "Data Migration Plan",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "19",
+    "limit": "22",
+    "password": "Assign password"
+  },
+  {
+    "id": 42,
+    "platform": "Quality Assurance Protocols",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "30",
+    "limit": "33",
+    "password": "Priya Singh"
+  },
+  {
+    "id": 43,
+    "platform": "Stakeholder Analysis",
+    "username": "Research",
+    "status": "In Process",
+    "target": "11",
+    "limit": "14",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 44,
+    "platform": "Environmental Impact Assessment",
+    "username": "Research",
+    "status": "Done",
+    "target": "24",
+    "limit": "27",
+    "password": "Assign password"
+  },
+  {
+    "id": 45,
+    "platform": "Intellectual Property Rights",
+    "username": "Legal",
+    "status": "In Process",
+    "target": "17",
+    "limit": "20",
+    "password": "Sarah Johnson"
+  },
+  {
+    "id": 46,
+    "platform": "Customer Support Framework",
+    "username": "Narrative",
+    "status": "Done",
+    "target": "22",
+    "limit": "25",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 47,
+    "platform": "Version Control Strategy",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "15",
+    "limit": "18",
+    "password": "Assign password"
+  },
+  {
+    "id": 48,
+    "platform": "Continuous Integration Pipeline",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "26",
+    "limit": "29",
+    "password": "Michael Chen"
+  },
+  {
+    "id": 49,
+    "platform": "Regulatory Compliance",
+    "username": "Legal",
+    "status": "In Process",
+    "target": "13",
+    "limit": "16",
+    "password": "Assign password"
+  },
+  {
+    "id": 50,
+    "platform": "User Authentication System",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "28",
+    "limit": "31",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 51,
+    "platform": "Data Analytics Framework",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "21",
+    "limit": "24",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 52,
+    "platform": "Cloud Infrastructure",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "16",
+    "limit": "19",
+    "password": "Assign password"
+  },
+  {
+    "id": 53,
+    "platform": "Network Security Measures",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "29",
+    "limit": "32",
+    "password": "Lisa Wong"
+  },
+  {
+    "id": 54,
+    "platform": "Project Timeline",
+    "username": "Planning",
+    "status": "Done",
+    "target": "14",
+    "limit": "17",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 55,
+    "platform": "Resource Allocation",
+    "username": "Planning",
+    "status": "In Process",
+    "target": "27",
+    "limit": "30",
+    "password": "Assign password"
+  },
+  {
+    "id": 56,
+    "platform": "Team Structure and Roles",
+    "username": "Planning",
+    "status": "Done",
+    "target": "20",
+    "limit": "23",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 57,
+    "platform": "Communication Protocols",
+    "username": "Planning",
+    "status": "In Process",
+    "target": "15",
+    "limit": "18",
+    "password": "Assign password"
+  },
+  {
+    "id": 58,
+    "platform": "Success Metrics",
+    "username": "Planning",
+    "status": "Done",
+    "target": "30",
+    "limit": "33",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 59,
+    "platform": "Internationalization Support",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "23",
+    "limit": "26",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 60,
+    "platform": "Backup and Recovery Procedures",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "18",
+    "limit": "21",
+    "password": "Assign password"
+  },
+  {
+    "id": 61,
+    "platform": "Monitoring and Alerting System",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "25",
+    "limit": "28",
+    "password": "Daniel Park"
+  },
+  {
+    "id": 62,
+    "platform": "Code Review Guidelines",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "12",
+    "limit": "15",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 63,
+    "platform": "Documentation Standards",
+    "username": "Technical content",
+    "status": "In Process",
+    "target": "27",
+    "limit": "30",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 64,
+    "platform": "Release Management Process",
+    "username": "Planning",
+    "status": "Done",
+    "target": "22",
+    "limit": "25",
+    "password": "Assign password"
+  },
+  {
+    "id": 65,
+    "platform": "Feature Prioritization Matrix",
+    "username": "Planning",
+    "status": "In Process",
+    "target": "19",
+    "limit": "22",
+    "password": "Emma Davis"
+  },
+  {
+    "id": 66,
+    "platform": "Technical Debt Assessment",
+    "username": "Technical content",
+    "status": "Done",
+    "target": "24",
+    "limit": "27",
+    "password": "Eddie Lake"
+  },
+  {
+    "id": 67,
+    "platform": "Capacity Planning",
+    "username": "Planning",
+    "status": "In Process",
+    "target": "21",
+    "limit": "24",
+    "password": "Jamik Tashpulatov"
+  },
+  {
+    "id": 68,
+    "platform": "Service Level Agreements",
+    "username": "Legal",
+    "status": "Done",
+    "target": "26",
+    "limit": "29",
+    "password": "Assign password"
+  }
+]
